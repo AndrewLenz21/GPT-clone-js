@@ -25,13 +25,13 @@
 ---
 # Project-folders
 ## `Client`
-This is our [**Front-end**](client/Front-end%20config.md) folder, generated automatically by Vite.js when we creating our `front-end` side.
+This is our [**Front-end**](GPT-clone-js-MD/client/Front-end%20config.md) folder, generated automatically by Vite.js when we creating our `front-end` side.
 ## `Server`
-This is our [**Back-end**](server/Back-end%20config.md) folder
+This is our [**Back-end**](GPT-clone-js-MD/server/Back-end%20config.md) folder
 
 ---
-For the [**Client**](client/Front-end%20config.md), we are going to use Vanilla Template. [Go to Front-end config](client/Front-end%20config.md). 
-For the [**Server**](server/Back-end%20config.md), just create new folder with name: `server`. [Go to Back-end config](server/Back-end%20config.md)
+For the [**Client**](GPT-clone-js-MD/client/Front-end%20config.md), we are going to use Vanilla Template. [Go to Front-end config](GPT-clone-js-MD/client/Front-end%20config.md). 
+For the [**Server**](GPT-clone-js-MD/server/Back-end%20config.md), just create new folder with name: `server`. [Go to Back-end config](GPT-clone-js-MD/server/Back-end%20config.md)
 
 ---
 # Run Project
