@@ -30,8 +30,8 @@ This is our [**Front-end**](Front-end%20config.md) folder, generated automatical
 This is our [**Back-end**](Back-end%20config.md) folder
 
 ---
-For the [**Client**](Front-end%20config.md), we are going to use Vanilla Template. [Go to Front-end config](client/Front-end%20config.md). 
-For the [**Server**](Back-end%20config.md), just create new folder with name: `server`. [Go to Back-end config](server/Back-end%20config.md)
+For the [**Client**](client/Front-end%20config.md), we are going to use Vanilla Template. [Go to Front-end config](client/Front-end%20config.md). 
+For the [**Server**](server/Back-end%20config.md), just create new folder with name: `server`. [Go to Back-end config](server/Back-end%20config.md)
 
 ---
 # Run Project
