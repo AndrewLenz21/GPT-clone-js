@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GPT clone</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="node_modules/prismjs/themes/prism-tomorrow.css" rel="stylesheet">
+    <script src="node_modules/prismjs/prism.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <!--Chat history-->
+      <div id="chat_container"></div>
+      <!--Text Area-->
+      <form>
+        <textarea name="prompt" cols="1" rows="1" placeholder="Ask Chat GPT"></textarea>
+        <button type="submit"><img src="assets/send.svg" alt=""></button>
+      </form>
+    </div>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
