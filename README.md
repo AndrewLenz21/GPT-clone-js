@@ -25,9 +25,9 @@
 ---
 # Project-folders
 ## `Client`
-This is our [**Front-end**](Front-end%20config.md) folder, generated automatically by Vite.js when we creating our `front-end` side.
+This is our [**Front-end**](client/Front-end%20config.md) folder, generated automatically by Vite.js when we creating our `front-end` side.
 ## `Server`
-This is our [**Back-end**](Back-end%20config.md) folder
+This is our [**Back-end**](server/Back-end%20config.md) folder
 
 ---
 For the [**Client**](client/Front-end%20config.md), we are going to use Vanilla Template. [Go to Front-end config](client/Front-end%20config.md). 
