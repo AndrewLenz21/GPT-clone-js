@@ -12,7 +12,7 @@ npm create vite@latest client --tenplate vanilla
 	1. Select a framework: `Vanilla`
 	2. Select a variant: `JavaScript`
 Now we have our [**Client**](Front-end%20config.md) folder ready. [Go to Front-end config](Front-end%20config.md). 
-For the [**Server**](Back-end%20config.md), just create new folder with name: `server`. [Go to Back-end config](GPT-clone-js-MD/client/Back-end%20config.md)
+For the [**Server**](Back-end%20config.md), just create new folder with name: `server`. [Go to Back-end config](../server/Back-end%20config.md)
 
 ---
 # NPM
