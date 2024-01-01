@@ -1,6 +1,6 @@
 // importing our images
-import bot from "./assets/bot.svg";
 import user from "./assets/user.svg";
+import gpticon from "./assets/gpticon.svg";
 import { marked } from 'marked';
 
 function renderMarkdownText(text) {
@@ -64,8 +64,8 @@ function chatStripe(isAi, value, uniqueId) {
     <div class="chat">
       <div class="profile">
         <img
-          src="${isAi ? bot : user}"
-          src="${isAi ? 'bot' : 'user'}"
+          src="${isAi ? gpticon : user}"
+          alt="${isAi ? 'gpt-icon' : 'user'}"
         />
       </div>
       <div class="message" id=${uniqueId}>${value}</div>
