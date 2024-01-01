@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "e6d6a61b9682232a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e139d7bf3de1a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40ea64bed6b65d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server/Back-end config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b76a5649b082b04a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8117240015c7b09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0dc17feb02679c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c51e5794b2c29a4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c88f479ddbe3f1cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "dd0b02d45b767e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "08182bb8db8c5c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9ca9f4edad3535e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "server/Back-end config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c66e4dd57959be67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "server/Back-end config.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efeed23e83b3dcd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f14662ca61dcf32f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "server/Back-end config.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e40ea64bed6b65d8",
+  "lastOpenFiles": [
+    "client/Front-end config.md",
+    "GPT-clone-js.md",
+    "server/Back-end config.md",
+    "Front-end config.md",
+    "Front-end.md",
+    "server",
+    "client",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
