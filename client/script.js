@@ -1,11 +1,7 @@
 // importing our images
 import user from "./assets/user.svg";
 import gpticon from "./assets/gpticon.svg";
-import { marked } from 'marked';
 
-function renderMarkdownText(text) {
-  return marked(text);
-}
 //declaring our containers
 const form = document.querySelector("form");
 const chatContainer = document.querySelector("#chat_container");
