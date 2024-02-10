@@ -1,7 +1,7 @@
 ---
 
----
 #GENERAL-REVIEW
+![gpt-clone-mockup](https://github.com/AndrewLenz21/GPT-clone-js/assets/124147096/a661d6ab-4827-4c1c-a403-f74dddc09725)
 # Technologies
 ## `Front-end`
 - HTML
@@ -36,6 +36,12 @@ For the [**Server**](GPT-clone-js-MD/server/Back-end%20config.md), just create n
 ---
 # Run Project
 
+## On project/client
 ``` cmd
 npm run dev
+```
+
+## On project/server
+``` cmd
+npm run server
 ```
